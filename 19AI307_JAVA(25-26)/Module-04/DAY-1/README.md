@@ -21,13 +21,25 @@ To write a Java program that demonstrates exception handling by catching a NullP
 
 ## PROGRAM:
 
-```
-/*
-Program to implement a Exception Handling using Java
-Developed by: Antony Aswin Kumar L
-RegisterNumber: 212225040024
-*/
-```
+<h2 align="center">  
+  ⚠️ <b>Program to Implement Exception Handling Using Java</b>  
+</h2>  
+
+<p align="center">  
+  👨‍💻 <b>Developed By:</b><br>  
+  <b>SRIDHAR C</b>  
+  <br><br>  
+  🆔 <b>Register Number:</b><br>  
+  <b>212225040425</b>  
+</p>  
+
+<hr>  
+
+<p align="center">  
+  📌 <b>Language:</b> Java<br>  
+  📚 <b>Topic:</b> Exception Handling  
+</p>
+
 
 ## SOURCE CODE:
 
