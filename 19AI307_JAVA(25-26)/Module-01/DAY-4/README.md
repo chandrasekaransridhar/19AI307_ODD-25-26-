@@ -26,16 +26,28 @@ To write a Java program that reads an array of integers and finds the index of a
 
 
 ## PROGRAM:
- ```
-/*
-Program to implement a Array concept using Java
-Developed by: Antony Aswin Kumar L
-Register Number: 212225040024
-*/
-```
+<h2 align="center"> 
+  📊 <b>Program to Implement an Array Concept Using Java</b> 
+</h2> 
+
+<p align="center"> 
+  👨‍💻 <b>Developed By:</b><br> 
+  <b>SRIDHAR C</b> 
+  <br><br> 
+  🆔 <b>Register Number:</b><br> 
+  <b>212225040425</b> 
+</p> 
+
+<hr> 
+
+<p align="center"> 
+  📌 <b>Language:</b> Java<br> 
+  📚 <b>Topic:</b> Array Concept 
+</p> 
+
 
 ## SOURCE CODE:
-```
+```java
 import java.util.Scanner;
 
 public class Main {
