@@ -43,7 +43,7 @@ To develop a Java program that demonstrates multithreading with synchronization 
 ## PROGRAM:
 
 <h2 align="center">  
-  🧱 <b>Program to Implement Composition Concepts in Java</b>  
+  🎟️ <b>Program to Implement Multithreading with Synchronization Using Java</b>  
 </h2>  
 
 <p align="center">  
@@ -58,8 +58,9 @@ To develop a Java program that demonstrates multithreading with synchronization 
 
 <p align="center">  
   📌 <b>Language:</b> Java<br>  
-  📚 <b>Topic:</b> Composition Concepts  
+  📚 <b>Topic:</b> Multithreading and Synchronization  
 </p>
+
 
 
 ## SOURCE CODE:
