@@ -38,19 +38,30 @@ To write a Java program that demonstrates the use of methods by calculating and 
 
 ## PROGRAM:
 
-```
-/*
-Program to implement a Methods using Java
-Developed by: Antony Aswin Kumar L
-RegisterNumber: 212225040024
-*/
-```
+<h2 align="center"> 
+  ⚙️ <b>Program to Implement Methods Using Java</b> 
+</h2> 
+
+<p align="center"> 
+  👨‍💻 <b>Developed By:</b><br> 
+  <b>SRIDHAR C</b> 
+  <br><br> 
+  🆔 <b>Register Number:</b><br> 
+  <b>212225040425</b> 
+</p> 
+
+<hr> 
+
+<p align="center"> 
+  📌 <b>Language:</b> Java<br> 
+  📚 <b>Topic:</b> Methods 
+</p>
 
 ---
 
 ## SOURCE CODE:
 
-```
+```java
 import java.util.*;
 class prog {
     double getArea(double r) {
