@@ -24,16 +24,32 @@ To write a Java program that demonstrates the use of variables, data types, oper
 8.	End the program.
 
 ## PROGRAM:
- ```
-/*
-Program to implement variables and Operators using Java
-Developed by: Antony Aswin Kumar L
-Register Number: 212225040024
-*/
-```
+
+
+<h2 align="center">
+  💻 <b>Program to Implement Variables and Operators Using Java</b>
+</h2>
+
+<p align="center">
+  👨‍💻 <b>Developed By:</b><br>
+  <b>SRIDHAR C</b>
+  <br><br>
+  🆔 <b>Register Number:</b><br>
+  <b>212225040425</b>
+</p>
+
+<hr>
+
+<p align="center">
+  📌 <b>Language:</b> Java<br>
+  📚 <b>Topic:</b> Variables and Operators
+</p>
+
+
+
 
 ## Sourcecode.java:
-```
+```java
 import java.util.*;
 public class Main
 {
