@@ -41,17 +41,29 @@ To write a Java program that implements grading strategies using interfaces by d
 
 ## PROGRAM:
 
-```
-/*
-Program to implement Interface using Java
-Developed by: Antony Aswin Kumar L
-RegisterNumber: 212225040024
-*/
-```
+<h2 align="center">  
+  🔗 <b>Program to Implement Interface Using Java</b>  
+</h2>  
+
+<p align="center">  
+  👨‍💻 <b>Developed By:</b><br>  
+  <b>SRIDHAR C</b>  
+  <br><br>  
+  🆔 <b>Register Number:</b><br>  
+  <b>212225040425</b>  
+</p>  
+
+<hr>  
+
+<p align="center">  
+  📌 <b>Language:</b> Java<br>  
+  📚 <b>Topic:</b> Interface  
+</p>
+
 
 ## SOURCE CODE:
 
-```
+```java
 import java.util.Scanner;
 interface grade{
     void grader(int marks);
