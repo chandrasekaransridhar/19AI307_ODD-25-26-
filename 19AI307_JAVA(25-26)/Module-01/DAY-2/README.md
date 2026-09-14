@@ -41,16 +41,30 @@ To write a Java program that uses conditional statements to determine the state 
 12. End the program.
 
 ## PROGRAM:
- ```
-/*
-Program to implement a conditional statement using Java
-Developed by: Antony Aswin Kumar L
-Register Number: 212225040024
-*/
-```
+
+
+<h2 align="center">
+  💻 <b>Program to Implement a Conditional Statement Using Java</b>
+</h2>
+
+<p align="center">
+  👨‍💻 <b>Developed By:</b><br>
+  <b>SRIDHAR C</b>
+  <br><br>
+  🆔 <b>Register Number:</b><br>
+  <b>212225040425</b>
+</p>
+
+<hr>
+
+<p align="center">
+  📌 <b>Language:</b> Java<br>
+  📚 <b>Topic:</b> Conditional Statements
+</p>
+
 
 ## Sourcecode.java:
-```
+```java
 import java.util.*;
 public class Demo
 {
