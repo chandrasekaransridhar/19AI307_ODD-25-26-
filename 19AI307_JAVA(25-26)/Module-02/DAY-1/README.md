@@ -33,19 +33,30 @@ To write a Java program that creates a class with attributes and demonstrates ob
 
 ## PROGRAM:
 
-```
-/*
-Program to implement a Class and Objects using Java
-Developed by: Antony Aswin Kumar L
-RegisterNumber: 212225040024
-*/
-```
+<h2 align="center"> 
+  🏛️ <b>Program to Implement Class and Objects Using Java</b> 
+</h2> 
+
+<p align="center"> 
+  👨‍💻 <b>Developed By:</b><br> 
+  <b>SRIDHAR C</b> 
+  <br><br> 
+  🆔 <b>Register Number:</b><br> 
+  <b>212225040425</b> 
+</p> 
+
+<hr> 
+
+<p align="center"> 
+  📌 <b>Language:</b> Java<br> 
+  📚 <b>Topic:</b> Class and Objects 
+</p>
 
 ---
 
 ## SOURCE CODE:
 
-```
+```java
 import java.util.Scanner;
 
 class Course {
