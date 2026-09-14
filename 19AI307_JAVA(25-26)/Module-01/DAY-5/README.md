@@ -20,17 +20,28 @@ To write a Java program that finds the absolute value of a given number using th
 
 
 ## PROGRAM:
- ```
-/*
-Program to implement a Strings and Math Function using Java
-Developed by: Antony Aswin Kumar L
-Register Number: 212225040024
-*/
-```
+<h2 align="center"> 
+  🔤 <b>Program to Implement Strings and Math Function Using Java</b> 
+</h2> 
+
+<p align="center"> 
+  👨‍💻 <b>Developed By:</b><br> 
+  <b>SRIDHAR C</b> 
+  <br><br> 
+  🆔 <b>Register Number:</b><br> 
+  <b>212225040425</b> 
+</p> 
+
+<hr> 
+
+<p align="center"> 
+  📌 <b>Language:</b> Java<br> 
+  📚 <b>Topic:</b> Strings and Math Function 
+</p>
 
 
 ## SOURCE CODE:
-```
+```java
 import java.util.*;
 public class demo
 {
