@@ -27,17 +27,29 @@ To write a Java program that demonstrates **inheritance** by creating a supercla
 
 ## PROGRAM:
 
-```
-/*
-Program to implement Inheritance and Aggregation using Java
-Developed by: Antony Aswin Kumar L
-RegisterNumber: 212225040024
-*/
-```
+<h2 align="center">  
+  🧬 <b>Program to Implement Inheritance and Aggregation Using Java</b>  
+</h2>  
+
+<p align="center">  
+  👨‍💻 <b>Developed By:</b><br>  
+  <b>SRIDHAR C</b>  
+  <br><br>  
+  🆔 <b>Register Number:</b><br>  
+  <b>212225040425</b>  
+</p>  
+
+<hr>  
+
+<p align="center">  
+  📌 <b>Language:</b> Java<br>  
+  📚 <b>Topic:</b> Inheritance and Aggregation  
+</p>
+
 
 ## SOURCE CODE:
 
-```
+```java
 import java.util.*;
 
 class Vehicle {
